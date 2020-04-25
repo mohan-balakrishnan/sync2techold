@@ -10,6 +10,9 @@ permalink: "/contact.html"
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
 </div>
 <div class="col-md-6">
+<embed src="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit" width="300" height="200">
+</div>
+<div class="col-md-6">
 <input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
 </div>
 </div>
