@@ -1,7 +1,7 @@
 # Site
 name: 'Sync2tech'
 description: 'Sync2tech - Tech blog aggregator for AWS, DevOps, Selenium, Rest API'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/favicon.ico'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'sync2tech'
