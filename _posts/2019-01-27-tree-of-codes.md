@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tree of Codes"
-author: sal
+author: Sync2tech
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---
