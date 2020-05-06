@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Bundler"
-author: Sync2tech
+author: sal
 categories: [ Jekyll ]
 image: assets/images/2.jpg
 ---
