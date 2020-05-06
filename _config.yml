@@ -4,7 +4,7 @@ description: 'Mundana is a free Jekyll theme for awesome people like you, Medium
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
+disqus: ''
 email: 'contact@sync2tech.com'
 mailchimp-list: '#'
 
