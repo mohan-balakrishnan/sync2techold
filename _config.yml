@@ -20,7 +20,7 @@ plugins:
   
 authors:
     sal:
-      name:                        
+      name:           
       site:           https://www.sync2tech.com
       avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Mohan, the author of Sync2tech, the theme you're currently previewing. I hope you like it!"
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Mohan
+      author: sal
       avatar: assets/images/avatar1.jpg
       
   # all pages
