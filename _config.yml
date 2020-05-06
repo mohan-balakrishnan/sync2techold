@@ -1,6 +1,6 @@
 # Site
 name: 'Sync2tech'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Tech blog aggregator for DevOps, AWS, Azure, Selenium, API.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
