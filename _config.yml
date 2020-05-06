@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'contact@sync2tech.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: '#'
 
 include: ["_pages"]
 permalink: /:title/
@@ -21,7 +21,7 @@ plugins:
 authors:
     sal:
       name:           
-      site:           https://www.sync2tech.com.
+      site:           https://www.sync2tech.com
       avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Mohan, the author of Sync2tech, the theme you're currently previewing. I hope you like it!"
       email:          contact@sync2tech.com
