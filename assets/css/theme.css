@@ -31,10 +31,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#209cee;
+	color:#03a87c;
 }
 a.text-dark:hover {
-	color:#209cee !important;
+	color:#03a87c !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -112,7 +112,7 @@ a.text-dark:hover {
 	box-shadow:none;
 }
 .btn-link.btn-primary {
-	color:#209cee;
+	color:#03a87c;
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
@@ -120,7 +120,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-success {
-	color:#209cee;
+	color:#03a87c;
 	border-color:transparent;
 }
 .btn-link.btn-info {
@@ -192,14 +192,14 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#209cee !important;
-	border:1px solid #209cee;
+	color:#03a87c !important;
+	border:1px solid #03a87c;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-	background:#209cee;
+	background:#03a87c;
 	color:#fff !important;
 }
 .navbar-brand {
@@ -334,13 +334,13 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:#209cee !important;
+	fill:#03a87c !important;
 }
 .bg-secondary {
 	fill:#7832e2 !important;
 }
 .bg-success {
-	fill:#209cee !important;
+	fill:#03a87c !important;
 }
 .bg-info {
 	fill:#09ebaf !important;
@@ -407,7 +407,7 @@ a.text-dark:hover {
 }
 .card a:hover {
 	text-decoration:none;
-	color:#209cee;
+	color:#03a87c;
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -437,8 +437,8 @@ a.text-dark:hover {
 }
 .alert-primary {
 	color:#fff;
-	background-color:#209cee;
-	border-color:#209cee;
+	background-color:#03a87c;
+	border-color:#03a87c;
 }
 .alert-primary hr {
 	border-top-color:#038f6a;
@@ -459,8 +459,8 @@ a.text-dark:hover {
 }
 .alert-success {
 	color:#fff;
-	background-color:#209cee;
-	border-color:#209cee;
+	background-color:#03a87c;
+	border-color:#03a87c;
 }
 .alert-success hr {
 	border-top-color:#038f6a;
