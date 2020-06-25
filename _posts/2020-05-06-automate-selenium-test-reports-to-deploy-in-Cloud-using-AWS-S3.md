@@ -4,7 +4,7 @@ title:  "Automate Selenium test reports to deploy in Cloud using AWS S3"
 categories: [ AWS ]
 image: assets/images/s3-report.PNG
 ---
-Cloud based automation report makes it possible for teams spread across different locations to easily collaborate with each other as they have a higher availability of tools, test suites, and reports. Testers can easily test from different locations and access test reports from anywhere in the world without the pain of uploading and downloading them. While promoting DevOps and Test Automation Strategy for Digital Transformation, it effectively automates the delivery pipeline which results in improved efficiency and high reusability of test components.
+Cloud based automation report makes it possible for team spread across different locations to easily collaborate with each other as they have a higher availability of tools, test suites, and reports. Testers can easily test from different locations and access test reports from anywhere in the world without the pain of uploading and downloading them. While promoting DevOps and Test Automation Strategy for Digital Transformation, it effectively automates the delivery pipeline which results in improved efficiency and high reusability of test components.
 
 In this scenario we are going to Automate Selenium test reports to deploy Cloud using S3 and make reports publicly accessible. 
 
