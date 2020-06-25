@@ -1,3 +1,3 @@
 ## Welcome to sync2tech
 
-Sync2tech - repo to main tech stuff
+Sync2tech - repo for tech stuff
