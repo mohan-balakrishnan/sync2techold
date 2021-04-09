@@ -1,0 +1,16 @@
+I"Ö<p>Cloud based automation report makes it possible for team spread across different locations to easily collaborate with each other as they have a higher availability of tools, test suites, and reports. Testers can easily test from different locations and access test reports from anywhere in the world without the pain of uploading and downloading them. While promoting DevOps and Test Automation Strategy for Digital Transformation, it effectively automates the delivery pipeline which results in improved efficiency and high reusability of test components.</p>
+
+<p>In this scenario we are going to Automate Selenium test reports to deploy Cloud using S3 and make reports publicly accessible.</p>
+
+<p>To begin with, please find the documentation to begin your AWS journey and follow the steps. Once you create the AWS Free tier account, Create IAM user &amp; Set cost Budget limit.</p>
+
+<p>AWS Account Creation documentation : https://sway.office.com/CVu0CUQTEqV5rF6w</p>
+
+<p>Note: Read the disclaimer again!!</p>
+
+<p>Find the following link to know about AWS Free Tier limits &amp; usage. https://aws.amazon.com/free</p>
+
+<p>Once the AWS account is created with IAM using, we are good to proceed next.
+Steps to create a S3 bucket</p>
+
+:ET
